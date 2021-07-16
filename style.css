@@ -76,6 +76,7 @@ body{
     left: 0; right: 0;
     top: 0; bottom: 0;
     opacity: .7;
+    border-radius: 10px;
 }
 #slide2{
     background-color: #f1567b;
@@ -88,6 +89,7 @@ body{
     left: 0; right: 0;
     top: 0; bottom: 0;
     opacity: .7;
+    border-radius: 10px;
 }
 #slide3{
     background-color: #77c5d5;
@@ -100,6 +102,7 @@ body{
     left: 0; right: 0;
     top: 0; bottom: 0;
     opacity: .7;
+    border-radius: 10px;
 }
 #slide4{
     background-color: #ffd400;
@@ -112,6 +115,7 @@ body{
     left: 0; right: 0;
     top: 0; bottom: 0;
     opacity: .7;
+    border-radius: 10px;
 }
 #slide5{
     background-color: #702082;
@@ -124,6 +128,7 @@ body{
     left: 0; right: 0;
     top: 0; bottom: 0;
     opacity: .7;
+    border-radius: 10px;
 }
 #slide6{
     background-color: #373a36;
